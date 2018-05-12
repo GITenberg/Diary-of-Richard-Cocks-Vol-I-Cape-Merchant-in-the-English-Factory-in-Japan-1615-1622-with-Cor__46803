@@ -1,16 +1,22 @@
 _repo: Diary-of-Richard-Cocks-Vol-I-Cape-Merchant-in-the-English-Factory-in-Japan-1615-1622-with-Cor__46803
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Thompson, Edward Maunde
       gutenberg_agent_id: '43962'
       url: http://www.gutenberg.org/2009/agents/43962
+covers:
+- cover_type: archival
+  image_path: 46803-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Cocks, Richard
     gutenberg_agent_id: '43961'
     url: http://www.gutenberg.org/2009/agents/43961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46803#Diary-of-Richard-Cocks-Vol-I-Cape-Merchant-in-the-English-Factory-in-Japan-1615-1622-with-Cor_
 gutenberg_issued: '2014-09-07'
 gutenberg_type: Text
 identifiers:
